@@ -1,3 +1,10 @@
+<p align="center">
+<img src=https://img.shields.io/github/stars/freesparrowrob/NFT-mint-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/freesparrowrob/NFT-mint-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/freesparrowrob/NFT-mint-bot?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/freesparrowrob/NFT-mint-bot?style=for-the-badge&logo=appveyor&color=informational />
+</p>
+
 # NFT-mint-bot
 NFT mint bot is a telegram bot running on Python wrapper compiled for use .
 
