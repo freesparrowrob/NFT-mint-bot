@@ -15,8 +15,6 @@ NFT mint bot is a telegram bot running on Python wrapper compiled for use .
 - Edit the `address` and `private_key` fields in the `config.json` file.
 - To get started, write your telegram id in the console.
 
-![](https://github.com/freesparrowrob/NFT-mint-bot/blob/main/usage1.png?raw=true)
-
 To mint, simply attach an image to a message and include a caption in the following format. 
 On successful minting, your NFTs will be visible on marketplaces (which support Polygon) such as [Opensea](https://https://opensea.io/).
 
